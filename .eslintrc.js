@@ -37,10 +37,10 @@ module.exports = {
     'comma-dangle': [
       'error',
       {
-        'arrays': 'always-multiline',
-        'objects': 'always-multiline',
-        'imports': 'always-multiline',
-        'exports': 'always-multiline',
+        'arrays': 'ignore',
+        'objects': 'ignore',
+        'imports': 'ignore',
+        'exports': 'ignore',
         'functions': 'ignore',
       },
     ],
